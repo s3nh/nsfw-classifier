@@ -7,15 +7,14 @@ nsfw images classifier using ResNet-18. Pytorch
 
 Dataset stored in:
 
-\
-----
+```
 
-- \sfw
+-----\sfw
 
------\
+-----\nsfw
 
+```
 
--nsfw
 
 Labels provided by pytorch DataLoader. 
 
